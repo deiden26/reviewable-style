@@ -3,7 +3,7 @@ div[data-line-number]:not([data-line-number="0"]):before {
   content:attr(data-line-number);
   position:absolute;
   color: #aaa;
-  padding: 3px;
+  padding-top: 1px;
   font-size: x-small;
   display: block;
   width: 25px;
